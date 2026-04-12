@@ -72,7 +72,7 @@ fetch("https://api.alquran.cloud/v1/surah/1")
 ```
 <br />
 
-## 🎧 Quran Audio API
+## 🎧 Quran API (Audio)
 ### Description
 
 Provides recitations of the Quran by different reciters.
