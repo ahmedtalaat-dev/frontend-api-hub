@@ -2,9 +2,7 @@
 
 ## 📌 Project Goal
 
-This project is designed to help Front-End developers move from:
-
-**Static UI ❌ → Real Applications ✅**
+This project helps Front-End developers transition from building static UI designs to creating real-world, dynamic applications powered by APIs.
 
 Instead of building only UI screens, this repo helps developers practice using real APIs to build dynamic, production-like applications.
 
